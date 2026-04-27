@@ -1,4 +1,4 @@
-# MovieHub
+# MovieHub (Project 4)
 
 A simple front-end movie discovery app that lets you:
 - Browse **Trending** and **Popular** movies
